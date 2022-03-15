@@ -12,6 +12,7 @@ This repository is the office PyTorch implementation of CCF-Net ("Multi-Scale Co
 pip install requirements.txt
 ```
 ## Quick start
+Dataset is provided in [TianChi platform](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.51947a4co21Um6&dataId=79463).
 Running the code with the following command.
 ```
 python main_ours_resnet50_msc.py
