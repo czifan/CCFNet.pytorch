@@ -15,6 +15,11 @@ pip install requirements.txt
 ## Quick start
 Running the code with the following command.
 ```
-python main.py --config 3x3_16_3x3_32_3x3_64
+python main_ours_resnet50_msc.py
 ```
+
+## Results
+| Method | Backbone | Params (M) | Flops (G) | L-Disc | L-Vertebra | C-Disc | C-Vertebra | Score |
+|---|---|---|---|---|---|---|---|---|
+| SimpleBaseline | ResNet18 | 15.38 | 33.23 | 87.81 | 86.11 | 89.26 | 71.71 | 70.70 |
 
