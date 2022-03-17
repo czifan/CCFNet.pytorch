@@ -1,7 +1,7 @@
 # Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification
 
 ## Introduction
-This repository is the official PyTorch implementation of CCF-Net ("Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification"), ISBI 2022 (Oral). CCF-Net is also the runner-up solution of the 2020 [Spinal Disease Intelligent Diagnosis AI Challenge](https://tianchi.aliyun.com/competition/entrance/531796/information). The link to the paper is coming soon.
+This repository is the official PyTorch implementation of CCF-Net ("Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification"), ISBI 2022 (Oral). CCF-Net is also the runner-up solution of the 2020 [Spinal Disease Intelligent Diagnosis AI Challenge](https://tianchi.aliyun.com/competition/entrance/531796/information). The link to the paper is [here](https://arxiv.org/abs/2203.08408).
 
 ![image](https://user-images.githubusercontent.com/24490441/158391952-a2841e9a-c8d0-426b-959f-03a92c62e955.png)
 
@@ -39,4 +39,9 @@ python main_ours_resnet50_msc.py
 | CCF-Net (ours) | ResNet50-MSC | 10.79 | 22.09 | 85.68 | 96.41 | 90.59 | 77.46 | 80.64 |
 
 ## Citation
-Coming soon.
+@article{chen2021composite,
+  title={Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification},
+  author={Chen, ZiFan and Zhao, Jie and Yu, Hao and Zhang, Yue and Zhang, Li}
+  journal={arXiv preprint arXiv:2203.08408},
+  year={2022}
+}
