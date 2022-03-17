@@ -40,7 +40,7 @@ python main_ours_resnet50_msc.py
 
 ## Citation
 ```
-@article{chen2021composite,
+@article{chen2022ccfnet,
   title={Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification},
   author={Chen, ZiFan and Zhao, Jie and Yu, Hao and Zhang, Yue and Zhang, Li}
   journal={arXiv preprint arXiv:2203.08408},
