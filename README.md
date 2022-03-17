@@ -39,9 +39,11 @@ python main_ours_resnet50_msc.py
 | CCF-Net (ours) | ResNet50-MSC | 10.79 | 22.09 | 85.68 | 96.41 | 90.59 | 77.46 | 80.64 |
 
 ## Citation
+```
 @article{chen2021composite,
   title={Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification},
   author={Chen, ZiFan and Zhao, Jie and Yu, Hao and Zhang, Yue and Zhang, Li}
   journal={arXiv preprint arXiv:2203.08408},
   year={2022}
 }
+```
