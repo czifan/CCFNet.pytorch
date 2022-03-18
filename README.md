@@ -8,7 +8,7 @@ This repository is the official PyTorch implementation of CCF-Net (Multi-Scale C
 ## Requirements
 - Pytorch>=1.1.0
 - CPU or GPU
-- Other packages can be installed with the following instruction:
+- Other packages can be installed with the following command:
 ```
 pip install requirements.txt
 ```
