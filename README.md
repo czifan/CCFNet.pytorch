@@ -38,6 +38,8 @@ python main_ours_resnet50_msc.py
 | CCF-Net (ours) | ResNet50 | 23.60 | 21.49 | 90.43 | 90.24 | 90.06 | 76.35 | 75.13 |
 | CCF-Net (ours) | ResNet50-MSC | 10.79 | 22.09 | 85.68 | 96.41 | 90.59 | 77.46 | 80.64 |
 
+![image](https://user-images.githubusercontent.com/24490441/158932972-0e6d9266-ba09-4216-96ae-c1150118fa69.png)
+
 ## Citation
 ```
 @article{chen2022ccfnet,
